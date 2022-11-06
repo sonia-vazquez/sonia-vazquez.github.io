@@ -29,6 +29,6 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-NEWEST_FIRST_ARCHIVES = False
-ARTICLE_ORDER_BY = 'date'
+#NEWEST_FIRST_ARCHIVES = False
+#ARTICLE_ORDER_BY = 'date'
 
